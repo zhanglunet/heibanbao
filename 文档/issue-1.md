@@ -30,7 +30,7 @@ https://www.thingiverse.com/thing:4249113
 苹果设计的面罩。
 
  
-https://wx1.sinaimg.cn/large/477daa38ly4gdk8zjjci5j20ic0a8t9c.jpg
+![](https://wx1.sinaimg.cn/large/477daa38ly4gdk8zjjci5j20ic0a8t9c.jpg)
 
 
 用透明的塑料面板覆盖整个面部，每盒100个，两分钟内组装完毕，并且完全可调。
@@ -63,7 +63,7 @@ https://twitter.com/tim_cook/status/1246916489589837824
 
 DeepL 翻译，最新集成了中文和日文，利用神经网络训练翻译能力，与Google或Bing翻译相比，结果更自然。
 
-https://wx4.sinaimg.cn/large/477daa38ly4gdk8zji0izj21150gjgmc.jpg
+![](https://wx4.sinaimg.cn/large/477daa38ly4gdk8zji0izj21150gjgmc.jpg)
 
 https://www.deepl.com/translator
 
@@ -79,9 +79,8 @@ Windows文件管理器（WinFile），最初是在1990年代初与Windows 3.0一
 
 如今已开源，并支持Windows 10版本。
 
+![](https://wx3.sinaimg.cn/large/477daa38ly4gdk8zjhw0cj20hs0dcmzv.jpg)
 
-https://wx3.sinaimg.cn/large/477daa38ly4gdk8zjhw0cj20hs0dcmzv.jpg
- 
 
 https://github.com/microsoft/winfile
 
