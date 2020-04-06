@@ -20,7 +20,7 @@ https://www.thingiverse.com/thing:4249113
 
 苹果设计的面罩。
 
-图片: https://uploader.shimo.im/f/dEyYaPYwMV4jB1pI.jpg
+！[图片] (https://uploader.shimo.im/f/dEyYaPYwMV4jB1pI.jpg)
 
 用透明的塑料面板覆盖整个面部，每盒100个，两分钟内组装完毕，并且完全可调。
 
