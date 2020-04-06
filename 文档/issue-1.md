@@ -63,7 +63,7 @@ https://twitter.com/tim_cook/status/1246916489589837824
 
 DeepL 翻译，最新集成了中文和日文，利用神经网络训练翻译能力，与Google或Bing翻译相比，结果更自然。
 
-![](https://wx4.sinaimg.cn/large/477daa38ly4gdk8zji0izj21150gjgmc.jpg)
+![](https://mmbiz.qpic.cn/mmbiz_png/mCKUEKg7dwLpzOk0x46ic2umHlt7snGuia74clia84cT3s55rGPrT1DmtsuArndc3lMiboZicGP7YbJcUQEvvbzCekA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 https://www.deepl.com/translator
 
@@ -79,7 +79,7 @@ Windows文件管理器（WinFile），最初是在1990年代初与Windows 3.0一
 
 如今已开源，并支持Windows 10版本。
 
-![](https://wx3.sinaimg.cn/large/477daa38ly4gdk8zjhw0cj20hs0dcmzv.jpg)
+![](https://mmbiz.qpic.cn/mmbiz_png/mCKUEKg7dwLpzOk0x46ic2umHlt7snGuiad0aajd4H6ZibCBAaAFVWqs0duKhVhYAcXv0a5njBEM5sB3gWPTZHHhQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 https://github.com/microsoft/winfile
