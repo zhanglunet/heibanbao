@@ -10,6 +10,8 @@
 
 ! [图片] (https://wx2.sinaimg.cn/large/477daa38ly4gdk8zjy286j20u00ude81.jpg)
 
+![](http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042302.png)
+
 
 该设计已由NIH（美国国立卫生研究院）审查并批准用于临床。一个星期内，他亲自制作了1300多个，提供给温哥华的几家医院。
 
