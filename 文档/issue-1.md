@@ -8,7 +8,7 @@
 
 整天戴着外科口罩会给耳朵带来不适。奎因·罗尼（Quinn Roney）和他的妈妈希瑟（Heather）做了个3D打印的“护耳器”，用于固定外科口罩的弹性带，以减轻耳朵上的压力。
 
-https://wx2.sinaimg.cn/large/477daa38ly4gdk8zjy286j20u00ude81.jpg
+! [] (https://wx2.sinaimg.cn/large/477daa38ly4gdk8zjy286j20u00ude81.jpg)
 
 
 该设计已由NIH（美国国立卫生研究院）审查并批准用于临床。一个星期内，他亲自制作了1300多个，提供给温哥华的几家医院。
